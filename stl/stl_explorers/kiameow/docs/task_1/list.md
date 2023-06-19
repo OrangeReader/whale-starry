@@ -1,5 +1,5 @@
 ## 一点粗糙的理解
-![.](./img/list1.jpg)
+![.](../img/list1.jpg)
 
 ## 构建技巧
 在类的内部使用typedef，如
@@ -35,7 +35,7 @@ B在Global命名空间中，如果想要精确地使用B，可以采用`::B`的�
 
 
 ## 奇怪的_GLIBCXX_VISIBILITY
-![.](./img/_GLIBCXX.jpg)
+![.](../img/_GLIBCXX.jpg)
 from [StackOverflow@David Saxon](https://stackoverflow.com/questions/29270208/what-is-glibcxx-visibility)
 
 
